@@ -7,19 +7,19 @@ Right now I'm doing an MRes in UX Design with a minor in Psychology that takes m
 #### Projects : 
 
 1. :white_check_mark: **Carrd style website / online profile** - WIP (started, working on UX)
-   HTML, TailwindCSS, Vanilla JavaScript (part of a school project)
+    · HTML, TailwindCSS, Vanilla JavaScript (part of a school project)
 2. :white_check_mark: **Very minimal Visual Novel template** - WIP (part of a college project)
-   HTML, CSS, JavaScript
+     · HTML, CSS, JavaScript
 3. :negative_squared_cross_mark: **Google Images web scraper** - not started yet
-   Python, R (if I'm feeling really extra)
+     · Python, R (if I'm feeling really extra)
 4. :negative_squared_cross_mark: **Plenty of videogame concepts I've yet to not down** - very early stage
-   GDScript / Three.js / Delphi (Game Maker Studio) / JavaScript / idk
+     · GDScript / Three.js / Delphi (Game Maker Studio) / JavaScript / idk
 5. :negative_squared_cross_mark: **Online animated webtoon / manga**
-   HTML, CSS, JavaScript, other if needed
+     · HTML, CSS, JavaScript, other if needed
 6. :negative_squared_cross_mark: **Genshin Impact damage calculating resources** - not started yet
-   Scilab (ideally), maybe Pythob
+     · Scilab (ideally), maybe Pythob
 7. :negative_squared_cross_mark: **Danganronpa Fangame** - not started
-   Tech and languages not chosen yet
+     · Tech and languages not chosen yet
 8. :negative_squared_cross_mark: **Find some use for Julia cuz the language looks funny**
 
 I have no deadline for these, they could be one in a week or in 6 years
